@@ -1,0 +1,16 @@
+body{
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(34, 34, 34)
+}
+
+img{
+    width: 100%;
+}
+
+.card{
+    background-color: white;
+    margin: 0 auto;
+    width: 600px;
+    text-align: center;
+}
